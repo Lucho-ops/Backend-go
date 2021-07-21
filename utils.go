@@ -1,1 +1,7 @@
-package Backend_go
+package utils
+
+import "fmt"
+
+func HelloWord()  {
+	fmt.Println("Hello World !!")
+}
